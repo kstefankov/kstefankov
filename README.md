@@ -1,8 +1,8 @@
-![header](assets/header-picture.png)
+![header](assets/banner_pic.png)
 
 
 <h1 align="center">Привет, меня зовут Константин 👋</h1>
-<h3 align="center">⚖️ Юрист | 💻 Java Developer | 🎓 Вечный студент</h3>
+<h3 align="center">⚖️ Юрист | 💻 Java Developer</h3>
 
 
 ---
