@@ -69,8 +69,6 @@
 
 ---
 
----
-
 > 🔗 Все проекты доступны в [моих репозиториях](https://github.com/kstefankov?tab=repositories)
 
 ---
