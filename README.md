@@ -46,6 +46,7 @@
   <img src="https://img.shields.io/badge/Google_Tables-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Tables" />
   <img src="https://img.shields.io/badge/Apache_Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white" alt="Maven" />
   <img src="https://img.shields.io/badge/Lombok-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Lombok" />
+  <img src="https://img.shields.io/badge/Telegram_API-0088cc?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram API" />
 </p>
 
 #### Тестирование
