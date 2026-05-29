@@ -62,14 +62,6 @@
 
 ---
 
-## 📊 GitHub статистика
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" alt="GitHub Streak"/>
-</p>
-
----
-
 > 🔗 Все проекты доступны в [моих репозиториях](https://github.com/kstefankov?tab=repositories)
 
 ---
